@@ -1,0 +1,153 @@
+html {
+  color:black;
+}
+header {
+  min-width: 100% !important;
+  margin:-3.5%;
+}
+
+li{
+  align:left;
+}
+
+ul{
+  align:left;
+}
+
+/*.nav-up {
+  top: -40px; // same as header height. use variables in LESS/SASS
+}*/
+
+img{
+  width:37%;
+  height:37%;
+  padding:2%;
+}
+
+#facebook{
+  width:8% !important;
+  height:8% !important;
+}
+
+#twitter{
+  width:8% !important;
+  height:8% !important;
+}
+
+footer { background: #ddd;}
+
+
+nav{
+  margin-top:.55%;
+  width:100%;
+  min-height:5%;
+  /*margin-top:-1.25%;*/
+}
+
+#bg {
+  top: 0;
+  left: 0;
+  /*margin-top:-2%;*/
+  margin-left:-2%;
+  margin-right:-7%;
+  /*margin-bottom:-3.3%;*/
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  height:25%;
+}
+
+a{
+  color:#000066;
+  text-decoration:none;
+  margin:auto;
+  padding:3.7%;
+  align-content:space-between;
+  margin-top:-1%;
+  margin-bottom:2%;
+  min-width:100%;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  text-shadow: .5px 0;
+  font-weight:bolder;
+}
+
+div{
+  margin-left:9%;
+  margin-right:9%;
+  border-style:single;
+}
+
+#content_indent{
+  margin-left:5%;
+}
+
+a:hover{
+  text-decoration:underline;
+  font-weight:900px;
+}
+
+th{
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+}
+
+tr{
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  border-style:single;
+}
+
+#logo{
+  margin-top:5%;
+  align-content:center;
+}
+
+td{
+  margin:.5%;
+  padding:5%;
+}
+
+table{
+  table-layout:fixed;
+  column-width:10%auto;
+}
+
+h1 {
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  text-shadow: .5px 0;
+
+}
+
+h2{
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  text-shadow: .5px 0;
+}
+
+h3{
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  text-shadow: .5px 0;
+}
+
+h4{
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  align-content:left;
+  align-items:left;
+  align-self:left;
+  text-shadow: .5px 0;
+}
+
+h5{
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  text-shadow: .5px 0;
+}
+
+h6{
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  text-shadow: .5px 0;
+}
+
+
+
+p {
+	font-family: 'Goudy Bookletter 1911', Georgia, Times, serif;
+	font-size: 15px;
+	line-height: 25px;
+}
